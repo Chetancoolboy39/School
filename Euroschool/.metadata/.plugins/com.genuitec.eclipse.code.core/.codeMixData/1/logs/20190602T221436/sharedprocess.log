@@ -1,0 +1,25 @@
+[2019-06-02 22:14:54.683] [sharedprocess] [info] main {"machineId":"2d38f268001244a727393d81ecb0d45701fb9bb9a26f26e6828182241ee9efec"}
+[2019-06-02 22:14:56.962] [sharedprocess] [info] Scanned user extensions: 18
+[2019-06-02 22:14:58.020] [sharedprocess] [info] Deleted from disk codemix.angular c:\Users\RupChetan\.codemix\extensions\codemix.angular-0.9.3
+[2019-06-02 22:14:58.020] [sharedprocess] [info] Deleted from disk codemix.typescript c:\Users\RupChetan\.codemix\extensions\codemix.typescript-0.9.3
+[2019-06-02 22:14:58.020] [sharedprocess] [info] Deleted from disk codemix.web c:\Users\RupChetan\.codemix\extensions\codemix.web-0.9.3
+[2019-06-02 22:14:58.021] [sharedprocess] [info] Deleted from disk codemix.node c:\Users\RupChetan\.codemix\extensions\codemix.node-0.9.2
+[2019-06-02 22:14:58.918] [sharedprocess] [info] Deleted from disk xabikos.javascriptsnippets c:\Users\RupChetan\.codemix\extensions\xabikos.javascriptsnippets-1.6.0
+[2019-06-02 22:15:02.725] [sharedprocess] [info] Scanned system extensions: 73
+[2019-06-02 22:15:03.168] [sharedprocess] [info] Deleted from disk johnpapa.angular2 c:\Users\RupChetan\.codemix\extensions\johnpapa.angular2-6.1.1
+[2019-06-02 22:15:03.188] [sharedprocess] [info] Deleted from disk formulahendry.code-runner c:\Users\RupChetan\.codemix\extensions\formulahendry.code-runner-0.9.3
+[2019-06-02 22:15:03.191] [sharedprocess] [info] Deleted from disk angular.ng-template c:\Users\RupChetan\.codemix\extensions\angular.ng-template-0.1.9
+[2019-06-02 22:15:03.197] [sharedprocess] [info] Deleted from disk mkaufman.htmlhint c:\Users\RupChetan\.codemix\extensions\mkaufman.htmlhint-0.5.0
+[2019-06-02 22:15:03.199] [sharedprocess] [info] Deleted from disk dbaeumer.vscode-eslint c:\Users\RupChetan\.codemix\extensions\dbaeumer.vscode-eslint-1.4.10
+[2019-06-02 22:15:03.200] [sharedprocess] [info] Deleted from disk msjsdiag.debugger-for-chrome c:\Users\RupChetan\.codemix\extensions\msjsdiag.debugger-for-chrome-4.4.3
+[2019-06-02 22:15:07.000] [sharedprocess] [info] Scanned user extensions: 18
+[2019-06-02 22:15:07.043] [sharedprocess] [info] Scanned system extensions: 73
+[2019-06-02 22:15:07.772] [sharedprocess] [info] Scanned user extensions: 18
+[2019-06-02 22:15:09.832] [sharedprocess] [info] Scanned user extensions: 18
+[2019-06-02 22:15:09.926] [sharedprocess] [info] Scanned system extensions: 73
+[2019-06-02 22:15:10.175] [sharedprocess] [info] Scanned user extensions: 18
+[2019-06-02 22:15:10.325] [sharedprocess] [info] Scanned system extensions: 73
+[2019-06-02 22:15:34.722] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-02 22:20:07.844] [sharedprocess] [info] Scanned user extensions: 18
+[2019-06-02 22:25:07.908] [sharedprocess] [info] Scanned user extensions: 18
+[2019-06-02 22:30:07.961] [sharedprocess] [info] Scanned user extensions: 18
